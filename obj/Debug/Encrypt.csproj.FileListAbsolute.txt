@@ -1,0 +1,14 @@
+D:\cSharp\Experiments\Encrypt\bin\Debug\Encrypt.exe.config
+D:\cSharp\Experiments\Encrypt\bin\Debug\Encrypt.exe
+D:\cSharp\Experiments\Encrypt\bin\Debug\Encrypt.pdb
+D:\cSharp\Experiments\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+D:\cSharp\Experiments\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+D:\cSharp\Experiments\Encrypt\obj\Debug\Encrypt.exe
+D:\cSharp\Experiments\Encrypt\obj\Debug\Encrypt.pdb
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\bin\Debug\Encrypt.exe.config
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\bin\Debug\Encrypt.pdb
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\obj\Debug\Encrypt.exe
+C:\Users\NOTEBOOK\Desktop\GitHub\Encrypt\obj\Debug\Encrypt.pdb
